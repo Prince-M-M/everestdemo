@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /storage/
+Disallow: /config/
+Disallow: /wa.php
+
+Sitemap: https://everestfunerals.co.za/sitemap.php
